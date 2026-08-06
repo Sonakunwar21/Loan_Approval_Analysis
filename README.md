@@ -85,3 +85,4 @@ The analysis successfully maps the core operational blueprint of consumer lendin
 * **Risk Management Over Revenue:** Financial institutions systematically prioritize risk mitigation (via credit history checks and stable employment history) over sheer income volume. An applicant with lower income but an impeccable credit score presents a higher likelihood of approval than a high-earning individual with a volatile history.
 * **Strategic Co-Signing:** Combining financial resources via a co-applicant acts as the most viable path for lower-income brackets to reduce institutional risk profiles and access greater capital.
 * **Policy Adaptation:** The higher average incomes observed among the self-employed segment suggest that modern risk assessment models could benefit from expanding approval criteria beyond rigid corporate employment models to capture a growing pool of creditworthy alternative applicants.
+Author - Unnati Bisht 
